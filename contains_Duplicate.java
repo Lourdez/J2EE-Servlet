@@ -1,5 +1,6 @@
 package Leetcode;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
 class contains_Duplicate { 
 
     public boolean containsDuplicate(int[] nums) {
